@@ -1,0 +1,96 @@
+{
+    "entities": [
+        {
+            "type": "Companion",
+            "skill": "Archer",
+            "position": 
+                {
+                    "x": 100,
+                    "y": 580
+                }
+        },
+        {
+            "type": "Enemy",
+            "skill": "Mage",
+            "position": 
+                {
+                    "x": 1050,
+                    "y": 575
+                },
+            "components": [
+                {
+                    "type": "colors",
+                    "vec": 
+                        {
+                            "x": 0,
+                            "y": 1,
+                            "z": 1
+                        }
+                }
+            ]
+        },
+        {
+            "type": "Icon",
+            "skill": "Arrow",
+            "position": 
+                {
+                    "x": 200,
+                    "y": 700
+                }
+        },
+        {
+            "type": "Icon",
+            "skill": "Taunt",
+            "position": 
+                {
+                    "x": 1300,
+                    "y": 700
+                }
+        },
+        {
+            "type": "Icon",
+            "skill": "Heal",
+            "position": 
+                {
+                    "x": 1400,
+                    "y": 700
+                }
+        },
+        {
+            "type": "Icon",
+            "skill": "Melee",
+            "position": 
+                {
+                    "x": 1500,
+                    "y": 700
+                }
+        },
+        {
+            "type": "Icon",
+            "skill": "Iceshard",
+            "position": 
+                {
+                    "x": 1600,
+                    "y": 700
+                }
+        },
+        {
+            "type": "Icon",
+            "skill": "Fireball",
+            "position": 
+                {
+                    "x": 1700,
+                    "y": 700
+                }
+        },
+        {
+            "type": "Icon",
+            "skill": "Rock",
+            "position": 
+                {
+                    "x": 1800,
+                    "y": 700
+                }
+        }
+    ]
+}
